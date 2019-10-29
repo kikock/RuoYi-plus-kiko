@@ -1,0 +1,8 @@
+# \u6570\u636e\u6e90\u914d\u7f6e
+spring:
+  datasource:
+    druid:
+      # \u4ece\u5e93\u6570\u636e\u6e90
+      slave:
+        # \u4ece\u6570\u636e\u6e90\u5f00\u5173/\u9ed8\u8ba4\u5173\u95ed
+        enabled: false
